@@ -5,7 +5,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Staten Island Ferry Whitehall Terminal Greenmarket",
+        "nombre": "Ferry Staten Island",
         "coords": "40.7009696, -74.0130471",
         "url": "https://www.google.com/maps/search/?api=1&query=Staten+Island+Ferry+Whitehall+Terminal+Greenmarket"
       },
@@ -83,7 +83,7 @@
       },
       {
         "numero": 3,
-        "nombre": "Charging Bull",
+        "nombre": "Toro de Wall Street",
         "coords": "40.7054843, -74.0137577",
         "url": "https://www.google.com/maps/search/?api=1&query=Cunard+Building"
       },
@@ -95,7 +95,7 @@
       },
       {
         "numero": 5,
-        "nombre": "Federal Hall National Memorial",
+        "nombre": "Federal Hall",
         "coords": "40.7073993, -74.0102088",
         "url": "https://www.google.com/maps/search/?api=1&query=Federal+Hall+National+Memorial"
       },
@@ -107,7 +107,7 @@
       },
       {
         "numero": 7,
-        "nombre": "The Fearless Girl",
+        "nombre": "La niña sin miedo",
         "coords": "40.70679, -74.0108317",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Fearless+Girl"
       },
@@ -239,7 +239,7 @@
       },
       {
         "numero": 7,
-        "nombre": "National September 11 Memorial & Museum",
+        "nombre": "Memorial y Museo 9/11",
         "coords": "40.7115776, -74.0133362",
         "url": "https://www.google.com/maps/search/?api=1&query=National+September+11+Memorial+%26+Museum"
       },
@@ -257,7 +257,7 @@
       },
       {
         "numero": 10,
-        "nombre": "Berlin Wall",
+        "nombre": "Muro de Berlin",
         "coords": "40.7117091, -74.0166011",
         "url": "https://www.google.com/maps/search/?api=1&query=Berlin+Wall"
       },
@@ -281,7 +281,7 @@
       },
       {
         "numero": 2,
-        "nombre": "Edificio Gehry/Spruce",
+        "nombre": "Edificio Gehry",
         "coords": "40.7109201, -74.0055053",
         "url": "https://www.google.com/maps/search/?api=1&query=8+Spruce"
       },
@@ -299,13 +299,13 @@
       },
       {
         "numero": 5,
-        "nombre": "The David N. Dinkins Manhattan",
+        "nombre": "Edificio David N. Dinkins",
         "coords": "40.7131386, -74.0036107",
         "url": "https://www.google.com/maps/search/?api=1&query=Manhattan+Municipal+Building"
       },
       {
         "numero": 6,
-        "nombre": "CityStore",
+        "nombre": "City Store",
         "coords": "40.71341, -74.0035208",
         "url": "https://www.google.com/maps/search/?api=1&query=CityStore"
       },
@@ -330,20 +330,20 @@
       {
         "numero": 1,
         "nombre": "Entrada al puente desde Manhattan",
-        "coords": "40.7121364, -74.0048053",
-        "url": "https://www.google.com/maps/search/?api=1&query=Printing+House+Square"
-      },
-      {
-        "numero": 2,
-        "nombre": "Puente de Brooklyn",
         "coords": "40.7068623, -73.9978405",
         "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn+Bridge+Walkway"
       },
       {
+        "numero": 2,
+        "nombre": "Puente de Brooklyn",
+        "coords": "40.7050816, -73.9955821",
+        "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn+Bridge+Promenade,+New+York,+NY,+EE.+UU."
+      },
+      {
         "numero": 3,
         "nombre": "Llegada a Brooklyn",
-        "coords": "40.7006246, -73.9900662",
-        "url": "https://www.google.com/maps/search/?api=1&query=Downtown+Brooklyn,+Brooklyn,+Nueva+York+11201,+EE.+UU."
+        "coords": "40.7013048, -73.9908411",
+        "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn+Bridge+Bike+Lane"
       }
     ]
   },
@@ -353,7 +353,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Pier 35",
+        "nombre": "Muelle 35",
         "coords": "40.7094517, -73.9884141",
         "url": "https://www.google.com/maps/search/?api=1&query=Pier+35"
       },
@@ -377,7 +377,7 @@
       },
       {
         "numero": 5,
-        "nombre": "Museum at Eldridge Street",
+        "nombre": "Museum at Eldridge",
         "coords": "40.7147484, -73.9935561",
         "url": "https://www.google.com/maps/search/?api=1&query=Museum+at+Eldridge+Street"
       },
@@ -389,13 +389,13 @@
       },
       {
         "numero": 7,
-        "nombre": "Sinagoga Kehila Kedosha Janina",
+        "nombre": "Sinagoga Kehila Kedosha",
         "coords": "40.71858, -73.99118",
         "url": "https://www.google.com/maps/search/?api=1&query=Sinagoga+Kehila+Kedosha+Janina"
       },
       {
         "numero": 8,
-        "nombre": "Museo Lower East Side Tenement",
+        "nombre": "Tenement Museum",
         "coords": "40.718818, -73.9900876",
         "url": "https://www.google.com/maps/search/?api=1&query=Museo+Lower+East+Side+Tenement"
       },
@@ -413,39 +413,39 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Puente de Williamsburg",
-        "coords": "40.71861, -73.98811",
-        "url": "https://www.google.com/maps/search/?api=1&query=Delancey+St%E2%80%93+Essex+St"
+        "nombre": "Puente Williamsburg",
+        "coords": "40.7180566, -73.9865808",
+        "url": "https://www.google.com/maps/search/?api=1&query=Suffolk+St,+New+York,+NY+10002,+EE.+UU."
       },
       {
         "numero": 2,
         "nombre": "Economy Candy",
         "coords": "40.720105, -73.987861",
-        "url": "https://www.google.com/maps/search/?api=1&query=Economy+Candy"
+        "url": "https://www.google.com/maps/search/?api=1&query=Economy+Candy+Rivington"
       },
       {
         "numero": 3,
-        "nombre": "The Angel Orensanz Foundation",
+        "nombre": "Fundacion Angel Orensanz",
         "coords": "40.7211655, -73.9857196",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Angel+Orensanz+Foundation"
       },
       {
         "numero": 4,
-        "nombre": "Lenin Statue",
+        "nombre": "Estatua de Lenin",
         "coords": "40.7213209, -73.9857467",
-        "url": "https://www.google.com/maps/search/?api=1&query=Lenin+Statue"
+        "url": "https://www.google.com/maps/search/?api=1&query=Lenin+Statue+New+York"
       },
       {
         "numero": 5,
         "nombre": "Katz's Delicatessen",
         "coords": "40.722233, -73.987429",
-        "url": "https://www.google.com/maps/search/?api=1&query=Katz's+Delicatessen"
+        "url": "https://www.google.com/maps/search/?api=1&query=Katz's+Delicatessen+ludlow"
       },
       {
         "numero": 6,
         "nombre": "Russ & Daughters",
         "coords": "40.7225803, -73.9883134",
-        "url": "https://www.google.com/maps/search/?api=1&query=Russ+%26+Daughters"
+        "url": "https://www.google.com/maps/search/?api=1&query=Russ+%26+Daughters+179"
       },
       {
         "numero": 7,
@@ -462,8 +462,8 @@
       {
         "numero": 1,
         "nombre": "Bowery Mural",
-        "coords": "40.7243404, -73.992738",
-        "url": "https://www.google.com/maps/search/?api=1&query=Bowery+Mural"
+        "coords": "40.724539, -73.993093",
+        "url": "https://www.google.com/maps/search/?api=1&query=Houston+Bowery+Art+Wall"
       },
       {
         "numero": 2,
@@ -473,9 +473,9 @@
       },
       {
         "numero": 3,
-        "nombre": "Basilica y Catedral Emérita de San Patricio en Nueva York",
+        "nombre": "Old St. Patrick",
         "coords": "40.7236472, -73.9954348",
-        "url": "https://www.google.com/maps/search/?api=1&query=Basilica+y+Catedral+Em%C3%A9rita+de+San+Patricio+en+Nueva+York"
+        "url": "https://www.google.com/maps/search/?api=1&query=The+Basilica+St.+Patrick's+Old+Cathedral"
       },
       {
         "numero": 4,
@@ -492,8 +492,8 @@
       {
         "numero": 6,
         "nombre": "Banco aleman",
-        "coords": "40.7211448, -73.9942895",
-        "url": "https://www.google.com/maps/search/?api=1&query=1-11+Spring+St,+New+York,+NY+10012,+EE.+UU."
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 7,
@@ -529,7 +529,7 @@
         "numero": 2,
         "nombre": "Cartel bienvenida Little Italy",
         "coords": "40.7194275, -73.9972795",
-        "url": "https://www.google.com/maps/search/?api=1&query=Little+Italy"
+        "url": "https://www.google.com/maps/search/?api=1&query=Little+Italy+Mulberry"
       },
       {
         "numero": 3,
@@ -545,13 +545,13 @@
       },
       {
         "numero": 5,
-        "nombre": "Italian American Museum",
+        "nombre": "Museo Italoamericano",
         "coords": "40.7191091, -73.9975487",
         "url": "https://www.google.com/maps/search/?api=1&query=Italian+American+Museum"
       },
       {
         "numero": 6,
-        "nombre": "Ferrara Bakery & Café",
+        "nombre": "Ferrara",
         "coords": "40.7190779, -73.9970913",
         "url": "https://www.google.com/maps/search/?api=1&query=Ferrara+Bakery+%26+Cafe"
       },
@@ -569,13 +569,13 @@
       },
       {
         "numero": 9,
-        "nombre": "Most Precious Blood Church",
+        "nombre": "Most Precious Blood",
         "coords": "40.7177778, -73.9988889",
-        "url": "https://www.google.com/maps/search/?api=1&query=Most+Precious+Blood+Church"
+        "url": "https://www.google.com/maps/search/?api=1&query=Most+Precious+Blood+Church+Baxter"
       },
       {
         "numero": 10,
-        "nombre": "Museum of Chinese in America",
+        "nombre": "Museo Chino en América",
         "coords": "40.7193785, -73.9990506",
         "url": "https://www.google.com/maps/search/?api=1&query=Museum+of+Chinese+in+America"
       }
@@ -587,7 +587,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Chinatown Information Kiosk",
+        "nombre": "Puesto de Información y turistico",
         "coords": "40.7173952, -73.9992858",
         "url": "https://www.google.com/maps/search/?api=1&query=Chinatown+Information+Kiosk"
       },
@@ -595,17 +595,17 @@
         "numero": 2,
         "nombre": "Supermercado chino",
         "coords": "40.717605, -73.9960273",
-        "url": "https://www.google.com/maps/search/?api=1&query=S%C3%BApermercado+Hong+Kong"
+        "url": "https://www.google.com/maps/search/?api=1&query=Hong+Kong+Supermarket+Hester+New+york"
       },
       {
         "numero": 3,
-        "nombre": "Mahayana Temple Buddhist Association",
+        "nombre": "Mahayana Temple Buddhist",
         "coords": "40.7161406, -73.9954181",
         "url": "https://www.google.com/maps/search/?api=1&query=Mahayana+Temple+Buddhist+Association"
       },
       {
         "numero": 4,
-        "nombre": "Manhattan Bridge Arch and Colonnade",
+        "nombre": "Manhattan Bridge Arch",
         "coords": "40.7152948, -73.99509",
         "url": "https://www.google.com/maps/search/?api=1&query=Manhattan+Bridge+Arch+and+Colonnade"
       },
@@ -617,7 +617,7 @@
       },
       {
         "numero": 6,
-        "nombre": "Eastern States Buddhist Temple",
+        "nombre": "Eastern States Buddhist",
         "coords": "40.7160187, -73.9980046",
         "url": "https://www.google.com/maps/search/?api=1&query=Eastern+States+Buddhist+Temple"
       },
@@ -629,7 +629,7 @@
       },
       {
         "numero": 8,
-        "nombre": "Doyers St",
+        "nombre": "Doyers Street",
         "coords": "40.7143521, -73.9979432",
         "url": "https://www.google.com/maps/search/?api=1&query=Doyers+St,+New+York,+NY,+EE.+UU."
       },
@@ -637,7 +637,7 @@
         "numero": 9,
         "nombre": "Columbus Park",
         "coords": "40.7155504, -74.0000423",
-        "url": "https://www.google.com/maps/search/?api=1&query=Parque+Col%C3%B3n"
+        "url": "https://www.google.com/maps/search/?api=1&query=Columbus+park+new+york"
       }
     ]
   },
@@ -677,9 +677,9 @@
       },
       {
         "numero": 6,
-        "nombre": "Black Tap Craft Burgers & Beer - SoHo",
+        "nombre": "Black Tap",
         "coords": "40.7238388, -74.0041755",
-        "url": "https://www.google.com/maps/search/?api=1&query=Black+Tap+Craft+Burgers+%26+Beer+-+SoHo"
+        "url": "https://www.google.com/maps/search/?api=1&query=Black+Tap+Craft+Burgers+%26+Beer+-+SoHo+New+york"
       },
       {
         "numero": 7,
@@ -701,21 +701,21 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Ghostbusters Headquarters",
+        "nombre": "Estacion de Bomberos Cazafantasmas",
         "coords": "40.7196796, -74.0066143",
         "url": "https://www.google.com/maps/search/?api=1&query=Ghostbusters+Headquarters"
       },
       {
         "numero": 2,
         "nombre": "Letreros calles Hudson y Beach",
-        "coords": "40.7196796, -74.0066143",
-        "url": "https://www.google.com/maps/search/?api=1&query=Ghostbusters+Headquarters"
+        "coords": "40.7209737, -74.0084127",
+        "url": "https://www.google.com/maps/search/?api=1&query=136-148+Hudson+St,+New+York,+NY+10013,+EE.+UU."
       },
       {
         "numero": 3,
         "nombre": "Restaurante Robert de Niro",
-        "coords": "40.7193738, -74.0094769",
-        "url": "https://www.google.com/maps/search/?api=1&query=174-202+Franklin+St,+New+York,+NY+10013,+EE.+UU."
+        "coords": "40.7193118, -74.0101133",
+        "url": "https://www.google.com/maps/search/?api=1&query=Benvenuto+Cafe"
       },
       {
         "numero": 4,
@@ -732,24 +732,24 @@
       {
         "numero": 6,
         "nombre": "Puffy's Tavern",
-        "coords": "40.7185567, -74.0090884",
-        "url": "https://www.google.com/maps/search/?api=1&query=Puffy's+Tavern"
+        "coords": "40.7171928, -74.0094254",
+        "url": "https://www.google.com/maps/search/?api=1&query=3836+166+duane+Park"
       },
       {
         "numero": 7,
         "nombre": "Duane Park",
         "coords": "40.7171928, -74.0094254",
-        "url": "https://www.google.com/maps/search/?api=1&query=Duane+Park"
+        "url": "https://www.google.com/maps/search/?api=1&query=Duane+Park+3836+new+york"
       },
       {
         "numero": 8,
-        "nombre": "Parque de Washington Market",
+        "nombre": "Washington Market Park",
         "coords": "40.7169743, -74.011467",
         "url": "https://www.google.com/maps/search/?api=1&query=Parque+de+Washington+Market"
       },
       {
         "numero": 9,
-        "nombre": "Tribeca Bridge",
+        "nombre": "Puente de Tribeca",
         "coords": "40.7173853, -74.012831",
         "url": "https://www.google.com/maps/search/?api=1&query=Tribeca+Bridge,+New+York,+NY,+EE.+UU."
       },
@@ -769,7 +769,7 @@
         "numero": 12,
         "nombre": "Square Diner",
         "coords": "40.718485, -74.007253",
-        "url": "https://www.google.com/maps/search/?api=1&query=Square+Diner"
+        "url": "https://www.google.com/maps/search/?api=1&query=33+leonard+Square+Diner"
       }
     ]
   },
@@ -781,17 +781,17 @@
         "numero": 1,
         "nombre": "Astor Place Building",
         "coords": "40.7297747, -73.9920948",
-        "url": "https://www.google.com/maps/search/?api=1&query=Astor+Place+Building"
+        "url": "https://www.google.com/maps/search/?api=1&query=444+lafayette+Astor+Place+Building"
       },
       {
         "numero": 2,
-        "nombre": "Colonnade Row Plaque",
+        "nombre": "Colonnade Row",
         "coords": "40.7292776, -73.9923037",
         "url": "https://www.google.com/maps/search/?api=1&query=Colonnade+Row+Plaque"
       },
       {
         "numero": 3,
-        "nombre": "The Public Theater",
+        "nombre": "Public Theater",
         "coords": "40.7290672, -73.9919033",
         "url": "https://www.google.com/maps/search/?api=1&query=Teatro+P%C3%BAblico+del+Festival+de+Shakespeare+de+Nueva+York"
       },
@@ -805,11 +805,11 @@
         "numero": 5,
         "nombre": "Astor PL Metro Station",
         "coords": "40.7301245, -73.9908303",
-        "url": "https://www.google.com/maps/search/?api=1&query=front+of+the+subway,+2+4th+Ave,+New+York,+NY+10003,+EE.+UU."
+        "url": "https://www.google.com/maps/search/?api=1&query=2+4th+Ave,+New+York,+NY+10003,+EE.+UU."
       },
       {
         "numero": 6,
-        "nombre": "The Cooper Union : Foundation Building",
+        "nombre": "Cooper Union Foundation Building",
         "coords": "40.7292876, -73.9905253",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Cooper+Union+:+Foundation+Building"
       },
@@ -829,7 +829,7 @@
         "numero": 9,
         "nombre": "St. George Ukrainian Catholic Church",
         "coords": "40.7285091, -73.9897291",
-        "url": "https://www.google.com/maps/search/?api=1&query=St.+George+Ukrainian+Catholic+Church"
+        "url": "https://www.google.com/maps/search/?api=1&query=St.+George+Ukrainian+Catholic+Church+new+york"
       },
       {
         "numero": 10,
@@ -851,15 +851,15 @@
       },
       {
         "numero": 13,
-        "nombre": "St. Mark's Church in-the-Bowery",
+        "nombre": "St. Mark's Church",
         "coords": "40.7303933, -73.9870892",
-        "url": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+San+Marcos"
+        "url": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+San+Marcos+Bowery"
       },
       {
         "numero": 14,
         "nombre": "Grace Church",
         "coords": "40.731975, -73.990902",
-        "url": "https://www.google.com/maps/search/?api=1&query=Iglesia+de+Gracia+y+Dependencias"
+        "url": "https://www.google.com/maps/search/?api=1&query=Grace+Church+Broadway"
       }
     ]
   },
@@ -888,8 +888,8 @@
       {
         "numero": 4,
         "nombre": "The Row",
-        "coords": "40.7310732, -73.9962833",
-        "url": "https://www.google.com/maps/search/?api=1&query=1-12+Washington+Square+N,+New+York,+NY+10003,+EE.+UU."
+        "coords": "40.730885, -73.9956235",
+        "url": "https://www.google.com/maps/search/?api=1&query=Silver+School+of+Social+Work"
       },
       {
         "numero": 5,
@@ -905,19 +905,19 @@
       },
       {
         "numero": 7,
-        "nombre": "Universidad de Nueva York",
+        "nombre": "New York Univertisy",
         "coords": "40.7295134, -73.9964609",
         "url": "https://www.google.com/maps/search/?api=1&query=Universidad+de+Nueva+York"
       },
       {
         "numero": 8,
-        "nombre": "MacDougal St",
+        "nombre": "MacDougal Street",
         "coords": "40.7299335, -74.000554",
         "url": "https://www.google.com/maps/search/?api=1&query=MacDougal+St,+New+York,+NY,+EE.+UU."
       },
       {
         "numero": 9,
-        "nombre": "Minetta St",
+        "nombre": "Minetta Street",
         "coords": "40.7298284, -74.0015688",
         "url": "https://www.google.com/maps/search/?api=1&query=Minetta+St,+New+York,+NY,+EE.+UU."
       }
@@ -931,7 +931,7 @@
         "numero": 1,
         "nombre": "The Cage",
         "coords": "40.7311104, -74.0010194",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Cage"
+        "url": "https://www.google.com/maps/search/?api=1&query=6th+Ave+The+Cage"
       },
       {
         "numero": 2,
@@ -941,19 +941,19 @@
       },
       {
         "numero": 3,
-        "nombre": "Bleecker St",
+        "nombre": "Bleecker Street",
         "coords": "40.7310301, -74.0028831",
         "url": "https://www.google.com/maps/search/?api=1&query=258-250+Bleecker+St,+New+York,+NY+10014,+EE.+UU."
       },
       {
         "numero": 4,
-        "nombre": "Phoebe Buffay's (Friends)",
+        "nombre": "Piso de Phoebe (Friends)",
         "coords": "40.7315048, -74.0035021",
         "url": "https://www.google.com/maps/search/?api=1&query=Phoebe+Buffay's+apartment+%2314"
       },
       {
         "numero": 5,
-        "nombre": "75 1/2 Bedford St",
+        "nombre": "75 1/2 Bedford Street",
         "coords": "40.731422, -74.0050285",
         "url": "https://www.google.com/maps/search/?api=1&query=75+1%2F2+Bedford+St,+New+York,+NY+10014,+EE.+UU."
       },
@@ -967,17 +967,17 @@
         "numero": 7,
         "nombre": "Piso serie Friends",
         "coords": "40.7323754, -74.0052681",
-        "url": "https://www.google.com/maps/search/?api=1&query=Friends+Apartment+Building"
+        "url": "https://www.google.com/maps/search/?api=1&query=90+Bedford+Friends+Apartment+Building"
       },
       {
         "numero": 8,
-        "nombre": "Five Guys",
+        "nombre": "Five Guys y The Garden",
         "coords": "40.7323484, -74.0038302",
-        "url": "https://www.google.com/maps/search/?api=1&query=Five+Guys"
+        "url": "https://www.google.com/maps/search/?api=1&query=296+Bleecker+Five+Guys"
       },
       {
         "numero": 9,
-        "nombre": "Jones St",
+        "nombre": "Jones Street",
         "coords": "40.7320473, -74.0024413",
         "url": "https://www.google.com/maps/search/?api=1&query=Jones+St,+New+York,+NY+10014,+EE.+UU."
       }
@@ -989,31 +989,31 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Gay St",
+        "nombre": "Gay Street",
         "coords": "40.7335418, -74.0004973",
         "url": "https://www.google.com/maps/search/?api=1&query=Gay+St,+New+York,+NY+10014,+EE.+UU."
       },
       {
         "numero": 2,
-        "nombre": "Biblioteca Jefferson Market",
+        "nombre": "Jefferson Market Library",
         "coords": "40.7345909, -73.9992165",
         "url": "https://www.google.com/maps/search/?api=1&query=Biblioteca+Jefferson+Market"
       },
       {
         "numero": 3,
-        "nombre": "Milligan Pl",
-        "coords": "40.7351084, -73.9986831",
-        "url": "https://www.google.com/maps/search/?api=1&query=Milligan+Pl,+New+York,+NY+10011,+EE.+UU."
+        "nombre": "Milligan Place",
+        "coords": "40.7351074, -73.9987846",
+        "url": "https://www.google.com/maps/search/?api=1&query=6th+ave+Milligan+Place"
       },
       {
         "numero": 4,
-        "nombre": "Patchin Pl",
+        "nombre": "Patchin Place",
         "coords": "40.734954, -73.9992931",
         "url": "https://www.google.com/maps/search/?api=1&query=Patchin+Pl,+New+York,+NY+10011,+EE.+UU."
       },
       {
         "numero": 5,
-        "nombre": "Posada Stonewall",
+        "nombre": "Stonewall Inn",
         "coords": "40.7338326, -74.0021626",
         "url": "https://www.google.com/maps/search/?api=1&query=Posada+Stonewall"
       },
@@ -1025,7 +1025,7 @@
       },
       {
         "numero": 7,
-        "nombre": "Carrie Bradshaw's Apartment (sexo en NY)",
+        "nombre": "Piso Carrie Bradshaw (sexo en NY)",
         "coords": "40.7353767, -74.0038599",
         "url": "https://www.google.com/maps/search/?api=1&query=Carrie+Bradshaw's+Apartment"
       },
@@ -1039,7 +1039,7 @@
         "numero": 9,
         "nombre": "White Horse Tavern",
         "coords": "40.7356977, -74.006192",
-        "url": "https://www.google.com/maps/search/?api=1&query=White+Horse+Tavern"
+        "url": "https://www.google.com/maps/search/?api=1&query=567+Hudson+White+Horse+Tavern"
       }
     ]
   },
@@ -1049,7 +1049,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "The Morgan Library & Museum",
+        "nombre": "Morgan Library",
         "coords": "40.7492258, -73.9813971",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Morgan+Library+%26+Museum"
       },
@@ -1063,7 +1063,7 @@
         "numero": 3,
         "nombre": "Macy's",
         "coords": "40.7504817, -73.9882938",
-        "url": "https://www.google.com/maps/search/?api=1&query=Macy's"
+        "url": "https://www.google.com/maps/search/?api=1&query=34th+New+York+Macy's"
       },
       {
         "numero": 4,
@@ -1073,7 +1073,7 @@
       },
       {
         "numero": 5,
-        "nombre": "Iglesia Episcopal de la Transfiguración",
+        "nombre": "Iglesia de la Transfiguración",
         "coords": "40.745066, -73.9858284",
         "url": "https://www.google.com/maps/search/?api=1&query=Iglesia+Episcopal+de+la+Transfiguraci%C3%B3n"
       },
@@ -1085,19 +1085,19 @@
       },
       {
         "numero": 7,
-        "nombre": "230 Fifth Avenue Building",
+        "nombre": "230 Fifth",
         "coords": "40.7442199, -73.9888001",
         "url": "https://www.google.com/maps/search/?api=1&query=230+Fifth+Avenue+Building"
       },
       {
         "numero": 8,
-        "nombre": "Madison Square",
-        "coords": "40.7421951, -73.9879992",
-        "url": "https://www.google.com/maps/search/?api=1&query=Madison+Square"
+        "nombre": "Madison Square Park",
+        "coords": "40.7426032, -73.9878264",
+        "url": "https://www.google.com/maps/search/?api=1&query=Madison+Square+Park+Reflecting+Pool"
       },
       {
         "numero": 9,
-        "nombre": "Edificio Flatiron",
+        "nombre": "Flatiron Building",
         "coords": "40.7410605, -73.9896986",
         "url": "https://www.google.com/maps/search/?api=1&query=Edificio+Flatiron"
       },
@@ -1115,7 +1115,7 @@
       },
       {
         "numero": 12,
-        "nombre": "Harry Potter Shop New York",
+        "nombre": "Tienda Harry Potter",
         "coords": "40.7405933, -73.9896246",
         "url": "https://www.google.com/maps/search/?api=1&query=Harry+Potter+Shop+New+York"
       },
@@ -1123,7 +1123,7 @@
         "numero": 13,
         "nombre": "Union Square Park",
         "coords": "40.7358235, -73.9905215",
-        "url": "https://www.google.com/maps/search/?api=1&query=Union+Square+Park"
+        "url": "https://www.google.com/maps/search/?api=1&query=201+Park+Ave+Union+Square+Park"
       }
     ]
   },
@@ -1133,21 +1133,21 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Vessel",
+        "nombre": "The Vessel",
         "coords": "40.7538073, -74.0021537",
         "url": "https://www.google.com/maps/search/?api=1&query=Vessel"
       },
       {
         "numero": 2,
-        "nombre": "Edge NYC",
+        "nombre": "Observatorio Edge",
         "coords": "40.7533936, -74.001055",
         "url": "https://www.google.com/maps/search/?api=1&query=Edge+NYC"
       },
       {
         "numero": 3,
         "nombre": "Centro Comercial",
-        "coords": "40.7538055, -74.0021707",
-        "url": "https://www.google.com/maps/search/?api=1&query=Vessel"
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 4,
@@ -1169,7 +1169,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "High Line Interim Walkway",
+        "nombre": "Interim Walkway",
         "coords": "40.7548149, -74.0059591",
         "url": "https://www.google.com/maps/search/?api=1&query=High+Line+Interim+Walkway"
       },
@@ -1182,8 +1182,8 @@
       {
         "numero": 3,
         "nombre": "The Spur",
-        "coords": "40.7522172, -74.0010618",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Spur"
+        "coords": "40.743931, -74.0068848",
+        "url": "https://www.google.com/maps/search/?api=1&query=High+Line+Observation+Deck"
       },
       {
         "numero": 4,
@@ -1230,14 +1230,14 @@
       {
         "numero": 2,
         "nombre": "Oficina de correos",
-        "coords": "40.751153, -73.9953636",
-        "url": "https://www.google.com/maps/search/?api=1&query=Amtrak+Metropolitan+Lounge"
+        "coords": "40.7512762, -73.9952159",
+        "url": "https://www.google.com/maps/search/?api=1&query=421+8th+Ave+United+States+Postal+Service"
       },
       {
         "numero": 3,
-        "nombre": "Penn Station",
+        "nombre": "Penn Station Y Moynihan Train Hall",
         "coords": "40.7516727, -73.9958582",
-        "url": "https://www.google.com/maps/search/?api=1&query=Moynihan+Train+Hall+at+Penn+Station"
+        "url": "https://www.google.com/maps/search/?api=1&query=350+W+33rd+New+York+Moynihan+Train+Hall+at+Penn+Station"
       },
       {
         "numero": 4,
@@ -1247,7 +1247,7 @@
       },
       {
         "numero": 5,
-        "nombre": "TWStudios: Chelsea",
+        "nombre": "Chelsea Televion Studios",
         "coords": "40.7457746, -73.9931627",
         "url": "https://www.google.com/maps/search/?api=1&query=TWStudios:+Chelsea"
       },
@@ -1255,7 +1255,7 @@
         "numero": 6,
         "nombre": "Hotel Chelsea",
         "coords": "40.7441072, -73.9959847",
-        "url": "https://www.google.com/maps/search/?api=1&query=Hotel+Chelsea"
+        "url": "https://www.google.com/maps/search/?api=1&query=204+W+23rd+New+York+Hotel+Chelsea"
       },
       {
         "numero": 7,
@@ -1273,7 +1273,7 @@
         "numero": 9,
         "nombre": "Limelight",
         "coords": "40.7410473, -73.9936086",
-        "url": "https://www.google.com/maps/search/?api=1&query=Limelight"
+        "url": "https://www.google.com/maps/search/?api=1&query=656+6th+Ave+New+York+Limelight"
       },
       {
         "numero": 10,
@@ -1343,13 +1343,13 @@
       },
       {
         "numero": 10,
-        "nombre": "Starbucks Reserve Roastery New York",
+        "nombre": "Starbucks Reserve Roastery",
         "coords": "40.7416, -74.0053",
         "url": "https://www.google.com/maps/search/?api=1&query=Starbucks+Reserve+Roastery+New+York"
       },
       {
         "numero": 11,
-        "nombre": "Google NYC - 9th Avenue",
+        "nombre": "Edificio Google",
         "coords": "40.7414688, -74.0033873",
         "url": "https://www.google.com/maps/search/?api=1&query=Google+NYC+-+9th+Avenue"
       },
@@ -1381,23 +1381,23 @@
         "numero": 3,
         "nombre": "Biblioteca Pública de Nueva York",
         "coords": "40.7531823, -73.9822534",
-        "url": "https://www.google.com/maps/search/?api=1&query=Biblioteca+P%C3%BAblica+de+Nueva+York"
+        "url": "https://www.google.com/maps/search/?api=1&query=476+5th+Ave+Public+Libraru+Stephen"
       },
       {
         "numero": 4,
         "nombre": "One Vanderbilt",
-        "coords": "40.7529466, -73.9785134",
-        "url": "https://www.google.com/maps/search/?api=1&query=One+Vanderbilt"
+        "coords": "40.7527746, -73.9787253",
+        "url": "https://www.google.com/maps/search/?api=1&query=SUMMIT+One+Vanderbilt"
       },
       {
         "numero": 5,
         "nombre": "Grand Central Terminal",
         "coords": "40.752714, -73.9772269",
-        "url": "https://www.google.com/maps/search/?api=1&query=Grand+Central+Terminal"
+        "url": "https://www.google.com/maps/search/?api=1&query=89+E+42nd+Grand+Central+Terminal"
       },
       {
         "numero": 6,
-        "nombre": "Edificio Chrysler",
+        "nombre": "Chrysler Building",
         "coords": "40.7516208, -73.975502",
         "url": "https://www.google.com/maps/search/?api=1&query=Edificio+Chrysler"
       },
@@ -1409,13 +1409,13 @@
       },
       {
         "numero": 8,
-        "nombre": "Tiendas",
-        "coords": "40.7563563, -73.9788007",
-        "url": "https://www.google.com/maps/search/?api=1&query=563-579+5th+Ave,+New+York,+NY+10017,+EE.+UU."
+        "nombre": "Tiendas 5Th Ave",
+        "coords": "40.75659, -73.97875",
+        "url": "https://www.google.com/maps/search/?api=1&query=5+Av%2FW+47+St"
       },
       {
         "numero": 9,
-        "nombre": "Catedral de Nueva York",
+        "nombre": "St. Patrick's Catedral",
         "coords": "40.7586117, -73.9761953",
         "url": "https://www.google.com/maps/search/?api=1&query=Catedral+de+Nueva+York"
       },
@@ -1423,7 +1423,7 @@
         "numero": 10,
         "nombre": "MoMA",
         "coords": "40.7614327, -73.9776216",
-        "url": "https://www.google.com/maps/search/?api=1&query=MoMA"
+        "url": "https://www.google.com/maps/search/?api=1&query=the+Museum+of+Modern+Art+Moma"
       },
       {
         "numero": 11,
@@ -1435,7 +1435,7 @@
         "numero": 12,
         "nombre": "Hotel Plaza",
         "coords": "40.7646318, -73.9743251",
-        "url": "https://www.google.com/maps/search/?api=1&query=Hotel+Plaza"
+        "url": "https://www.google.com/maps/search/?api=1&query=768+5th+Ave+The+Plaza"
       }
     ]
   },
@@ -1446,8 +1446,8 @@
       {
         "numero": 1,
         "nombre": "The Promenade",
-        "coords": "40.7582263, -73.9774416",
-        "url": "https://www.google.com/maps/search/?api=1&query=611+5th+Ave,+New+York,+NY+10020,+EE.+UU."
+        "coords": "40.7580522, -73.9769319",
+        "url": "https://www.google.com/maps/search/?api=1&query=1177+5th+Ave,+New+York,+NY+10022,+EE.+UU."
       },
       {
         "numero": 2,
@@ -1459,11 +1459,11 @@
         "numero": 3,
         "nombre": "FAO Schwarz",
         "coords": "40.758761, -73.979345",
-        "url": "https://www.google.com/maps/search/?api=1&query=FAO+Schwarz"
+        "url": "https://www.google.com/maps/search/?api=1&query=30+Rockefeller+FAO+Schwarz"
       },
       {
         "numero": 4,
-        "nombre": "Top of The Rock",
+        "nombre": "30 Rock (Top of The Rock)",
         "coords": "40.7593495, -73.9794087",
         "url": "https://www.google.com/maps/search/?api=1&query=Top+of+The+Rock"
       },
@@ -1471,23 +1471,23 @@
         "numero": 5,
         "nombre": "Radio City Music Hall",
         "coords": "40.759976, -73.9799772",
-        "url": "https://www.google.com/maps/search/?api=1&query=Radio+City+Music+Hall"
+        "url": "https://www.google.com/maps/search/?api=1&query=1260+6th+Ave+Radio+City+Music+Hall"
       },
       {
         "numero": 6,
-        "nombre": "American Girl Place New York",
+        "nombre": "American Girl",
         "coords": "40.7599932, -73.9778027",
         "url": "https://www.google.com/maps/search/?api=1&query=American+Girl+Place+New+York"
       },
       {
         "numero": 7,
-        "nombre": "The LEGO Store",
+        "nombre": "Tiendo Lego",
         "coords": "40.7591338, -73.9771693",
         "url": "https://www.google.com/maps/search/?api=1&query=The+LEGO%C2%AE+Store+Fifth+Avenue"
       },
       {
         "numero": 8,
-        "nombre": "Escultura De Atlas",
+        "nombre": "Escultura Atlas",
         "coords": "40.7589686, -73.977175",
         "url": "https://www.google.com/maps/search/?api=1&query=Escultura+De+Atlas+Rockefeller+Center+5ta+Ave"
       }
@@ -1501,7 +1501,7 @@
         "numero": 1,
         "nombre": "Krispy Kreme",
         "coords": "40.7603379, -73.984935",
-        "url": "https://www.google.com/maps/search/?api=1&query=Krispy+Kreme"
+        "url": "https://www.google.com/maps/search/?api=1&query=1601+Broadway+Krispy+Kreme"
       },
       {
         "numero": 2,
@@ -1513,7 +1513,7 @@
         "numero": 3,
         "nombre": "Hershey's Chocolate World",
         "coords": "40.7593411, -73.9843095",
-        "url": "https://www.google.com/maps/search/?api=1&query=Hershey's+Chocolate+World"
+        "url": "https://www.google.com/maps/search/?api=1&query=20+Time+Square+Hershey's+Chocolate+World"
       },
       {
         "numero": 4,
@@ -1536,8 +1536,8 @@
       {
         "numero": 7,
         "nombre": "ABC Studios",
-        "coords": "40.7562057, -73.9865555",
-        "url": "https://www.google.com/maps/search/?api=1&query=One+Times+Square"
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 8,
@@ -1559,13 +1559,13 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Javits Center",
+        "nombre": "Jacob K. Javits Convenion Center",
         "coords": "40.75688, -74.0016644",
-        "url": "https://www.google.com/maps/search/?api=1&query=Javits+Center"
+        "url": "https://www.google.com/maps/search/?api=1&query=429+11th+Ave+Javits+Center"
       },
       {
         "numero": 2,
-        "nombre": "Cruceros turisticos",
+        "nombre": "Cruceros turísticos",
         "coords": "40.7626847, -74.0014928",
         "url": "https://www.google.com/maps/search/?api=1&query=Pier+83+Midtown"
       },
@@ -1577,7 +1577,7 @@
       },
       {
         "numero": 4,
-        "nombre": "Intrepid Sea-Air-Space Museum",
+        "nombre": "Intrepid Sea Air & Space Museum",
         "coords": "40.7648801, -74.0008306",
         "url": "https://www.google.com/maps/search/?api=1&query=Intrepid+Sea-Air-Space+Museum"
       }
@@ -1597,7 +1597,7 @@
         "numero": 2,
         "nombre": "Patsy's Pizzeria",
         "coords": "40.7503986, -73.9721622",
-        "url": "https://www.google.com/maps/search/?api=1&query=Patsy's+Pizzeria"
+        "url": "https://www.google.com/maps/search/?api=1&query=801+2nd+Ave+Patsy's+Pizzeria"
       },
       {
         "numero": 3,
@@ -1619,36 +1619,24 @@
       },
       {
         "numero": 6,
-        "nombre": "Kobra's Albert Einstein On a Bike Mural",
-        "coords": "40.7516592, -73.9725552",
-        "url": "https://www.google.com/maps/search/?api=1&query=Kobra's+Peace+Mural"
-      },
-      {
-        "numero": 7,
-        "nombre": "Kobra's Braves of 9/11 Mural",
-        "coords": "40.7553234, -73.9717432",
-        "url": "https://www.google.com/maps/search/?api=1&query=Kobra's+Braves+of+9%2F11+Mural"
-      },
-      {
-        "numero": 8,
-        "nombre": "Waldorf Astoria",
+        "nombre": "The Waldorf Astoria",
         "coords": "40.7564821, -73.9734562",
         "url": "https://www.google.com/maps/search/?api=1&query=Waldorf+Astoria"
       },
       {
-        "numero": 9,
+        "numero": 7,
         "nombre": "Greenacre Park",
         "coords": "40.7562408, -73.9692841",
         "url": "https://www.google.com/maps/search/?api=1&query=Greenacre+Park"
       },
       {
-        "numero": 10,
+        "numero": 8,
         "nombre": "respiradero Marilyn Monroe",
         "coords": "40.7574588, -73.9716616",
         "url": "https://www.google.com/maps/search/?api=1&query=590-586+Lexington+Ave,+New+York,+NY+10022,+EE.+UU."
       },
       {
-        "numero": 11,
+        "numero": 9,
         "nombre": "601 Lexington Avenue",
         "coords": "40.7583491, -73.9702089",
         "url": "https://www.google.com/maps/search/?api=1&query=etc.venues+601+Lexington+Avenue"
@@ -1661,7 +1649,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Apple 5ta Avenida",
+        "nombre": "Tienda Apple",
         "coords": "40.7638478, -73.9729785",
         "url": "https://www.google.com/maps/search/?api=1&query=Apple+5ta+Avenida"
       },
@@ -1675,13 +1663,13 @@
         "numero": 3,
         "nombre": "Serendipity 3",
         "coords": "40.761848, -73.964894",
-        "url": "https://www.google.com/maps/search/?api=1&query=Serendipity+3"
+        "url": "https://www.google.com/maps/search/?api=1&query=225+E+60th+Serendipity+3"
       },
       {
         "numero": 4,
         "nombre": "Dylan's Candy Bar",
         "coords": "40.7622095, -73.9658384",
-        "url": "https://www.google.com/maps/search/?api=1&query=Dylan's+Candy+Bar"
+        "url": "https://www.google.com/maps/search/?api=1&query=1011+3rd+Ave+New+York+Dylan's+Candy+Bar"
       },
       {
         "numero": 5,
@@ -1693,7 +1681,7 @@
         "numero": 6,
         "nombre": "Alice's Tea Cup",
         "coords": "40.7651325, -73.9658045",
-        "url": "https://www.google.com/maps/search/?api=1&query=Alice's+Tea+Cup,+Chapter+2"
+        "url": "https://www.google.com/maps/search/?api=1&query=156+E+64th+New+York+Alice's+Tea+Cup,+Chapter+2"
       },
       {
         "numero": 7,
@@ -1715,7 +1703,7 @@
       },
       {
         "numero": 10,
-        "nombre": "Colección Frick",
+        "nombre": "The Frick Colección",
         "coords": "40.7710857, -73.9673861",
         "url": "https://www.google.com/maps/search/?api=1&query=Colecci%C3%B3n+Frick"
       },
@@ -1723,7 +1711,7 @@
         "numero": 11,
         "nombre": "Librería Albertine",
         "coords": "40.7767186, -73.9637192",
-        "url": "https://www.google.com/maps/search/?api=1&query=Albertine"
+        "url": "https://www.google.com/maps/search/?api=1&query=972+5th+Ave+New+York+Albertine"
       }
     ]
   },
@@ -1751,9 +1739,9 @@
       },
       {
         "numero": 4,
-        "nombre": "Saint David's School",
+        "nombre": "National Academy School of fine Arts",
         "coords": "40.7829357, -73.9582196",
-        "url": "https://www.google.com/maps/search/?api=1&query=Saint+David's+School"
+        "url": "https://www.google.com/maps/search/?api=1&query=12+E+89th+Saint+David's+School"
       },
       {
         "numero": 5,
@@ -1783,7 +1771,7 @@
         "numero": 9,
         "nombre": "The Africa Center",
         "coords": "40.7964179, -73.9493248",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Africa+Center"
+        "url": "https://www.google.com/maps/search/?api=1&query=1280+5th+Ave+New+York+The+Africa+Center"
       }
     ]
   },
@@ -1793,15 +1781,15 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Roosevelt Island",
-        "coords": "40.757331, -73.954097",
-        "url": "https://www.google.com/maps/search/?api=1&query=Roosevelt+Island"
+        "nombre": "Teleférico Roosevelt",
+        "coords": "40.7575677, -73.9552396",
+        "url": "https://www.google.com/maps/search/?api=1&query=10+w+main+New+York+10044+Roosevelt+Island+viewpoint"
       },
       {
         "numero": 2,
-        "nombre": "Verizon Executive Education Center",
-        "coords": "40.7558438, -73.9555592",
-        "url": "https://www.google.com/maps/search/?api=1&query=Verizon+Executive+Education+Center"
+        "nombre": "Campus Tecnológico Universidad Cornell",
+        "coords": "40.7556304, -73.9562301",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cornell+Tech"
       },
       {
         "numero": 3,
@@ -1824,18 +1812,18 @@
       {
         "numero": 6,
         "nombre": "Bus rojo",
-        "coords": "40.753414, -73.958359",
-        "url": "https://www.google.com/maps/search/?api=1&query=Southpoint+Park"
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 7,
         "nombre": "The Octagon",
-        "coords": "40.7689555, -73.9437121",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Octagon"
+        "coords": "40.768884, -73.942912",
+        "url": "https://www.google.com/maps/search/?api=1&query=Main+St%2FThe+Octagon"
       },
       {
         "numero": 8,
-        "nombre": "Faro de Blackwell Island",
+        "nombre": "Faro de la Isla",
         "coords": "40.7728405, -73.9401836",
         "url": "https://www.google.com/maps/search/?api=1&query=Faro+de+Blackwell+Island"
       },
@@ -1848,8 +1836,8 @@
       {
         "numero": 10,
         "nombre": "Ferry Roosevelt Island",
-        "coords": "40.7569693, -73.952842",
-        "url": "https://www.google.com/maps/search/?api=1&query=Roosevelt+Island+Ferry+Terminal"
+        "coords": "40.7570031, -73.9529354",
+        "url": "https://www.google.com/maps/search/?api=1&query=E+Main+Roosevelt+Island+Ferry"
       }
     ]
   },
@@ -1859,7 +1847,7 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "The Pond at Central Park",
+        "nombre": "The Pond y Gapstow Bridge",
         "coords": "40.7658967, -73.9739293",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Pond+at+Central+Park"
       },
@@ -1877,9 +1865,9 @@
       },
       {
         "numero": 4,
-        "nombre": "Heckscher Playground",
+        "nombre": "Heckscher Playground y Umpire Rock",
         "coords": "40.7684641, -73.9772285",
-        "url": "https://www.google.com/maps/search/?api=1&query=Heckscher+Playground"
+        "url": "https://www.google.com/maps/search/?api=1&query=E+65th+Heckscher+Playground"
       },
       {
         "numero": 5,
@@ -1895,7 +1883,7 @@
       },
       {
         "numero": 7,
-        "nombre": "Central Park Carousel",
+        "nombre": "El Carrusel",
         "coords": "40.7699272, -73.9752549",
         "url": "https://www.google.com/maps/search/?api=1&query=Central+Park+Carousel"
       },
@@ -1903,7 +1891,7 @@
         "numero": 8,
         "nombre": "The Arsenal",
         "coords": "40.7677306, -73.9712496",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Arsenal"
+        "url": "https://www.google.com/maps/search/?api=1&query=830+5th+Ave+The+Arsenal"
       },
       {
         "numero": 9,
@@ -1927,7 +1915,7 @@
         "numero": 12,
         "nombre": "Imagine (John Lennon)",
         "coords": "40.7757544, -73.9752076",
-        "url": "https://www.google.com/maps/search/?api=1&query=Strawberry+Fields"
+        "url": "https://www.google.com/maps/search/?api=1&query=q2gg+33+new+YorkStrawberry+Fields"
       },
       {
         "numero": 13,
@@ -1962,14 +1950,14 @@
       {
         "numero": 3,
         "nombre": "The Lake",
-        "coords": "40.7762233, -73.9730854",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Lake"
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 4,
         "nombre": "Alice in Wonderland",
         "coords": "40.7750361, -73.9665454",
-        "url": "https://www.google.com/maps/search/?api=1&query=Alicia+en+el+Pa%C3%ADs+de+las+Maravillas"
+        "url": "https://www.google.com/maps/search/?api=1&query=E+74th+new+york+Alicia+en+el+Pa%C3%ADs+de+las+Maravillas"
       },
       {
         "numero": 5,
@@ -1979,7 +1967,7 @@
       },
       {
         "numero": 6,
-        "nombre": "Bow Bridge",
+        "nombre": "The Bow Bridge",
         "coords": "40.7757544, -73.9717784",
         "url": "https://www.google.com/maps/search/?api=1&query=Bow+Bridge"
       },
@@ -1993,7 +1981,7 @@
         "numero": 8,
         "nombre": "El Obelisco",
         "coords": "40.7796358, -73.9653964",
-        "url": "https://www.google.com/maps/search/?api=1&query=El+Obelisco"
+        "url": "https://www.google.com/maps/search/?api=1&query=E+81st+new+york+10024+El+Obelisco"
       },
       {
         "numero": 9,
@@ -2005,7 +1993,7 @@
         "numero": 10,
         "nombre": "Banco de los susurros",
         "coords": "",
-        "url": "https://www.google.com/maps/search/?api=1&query=40%C2%B046'47.6%22N+73%C2%B058'08.4%22W"
+        "url": ""
       },
       {
         "numero": 11,
@@ -2017,13 +2005,13 @@
         "numero": 12,
         "nombre": "The Great Lawn",
         "coords": "40.7816915, -73.9664192",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Great+Lawn"
+        "url": "https://www.google.com/maps/search/?api=1&query=79th+85th+The+Great+Lawn"
       },
       {
         "numero": 13,
-        "nombre": "Shakespeare Garden",
+        "nombre": "Swedish Cottage y Shakespeare Garden",
         "coords": "40.7797535, -73.9698821",
-        "url": "https://www.google.com/maps/search/?api=1&query=Shakespeare+Garden"
+        "url": "https://www.google.com/maps/search/?api=1&query=79th+Transverse+New+York+Shakespeare+Garden"
       },
       {
         "numero": 14,
@@ -2046,18 +2034,18 @@
       {
         "numero": 2,
         "nombre": "Jacqueline Kennedy Onassis Reservoir",
-        "coords": "40.7839941, -73.9689006",
-        "url": "https://www.google.com/maps/search/?api=1&query=Seneca+Village+Site"
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 3,
-        "nombre": "The Pool",
+        "nombre": "The Pool y Glen Span Arch",
         "coords": "40.7945748, -73.9598815",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+Pool"
+        "url": "https://www.google.com/maps/search/?api=1&query=102nd+Crossing+New+York+The+Pool"
       },
       {
         "numero": 4,
-        "nombre": "North Woods Loch Double Waterfall",
+        "nombre": "North Woods Loch Waterfall",
         "coords": "40.7954933, -73.9560275",
         "url": "https://www.google.com/maps/search/?api=1&query=North+Woods+Loch+Double+Waterfall"
       },
@@ -2083,13 +2071,13 @@
         "numero": 8,
         "nombre": "Fort Clinton",
         "coords": "40.7952528, -73.9521144",
-        "url": "https://www.google.com/maps/search/?api=1&query=Fort+Clinton"
+        "url": "https://www.google.com/maps/search/?api=1&query=5th+Ave+New+York+Fort+Clinton"
       },
       {
         "numero": 9,
         "nombre": "Conservatory Garden",
         "coords": "40.7936928, -73.9524588",
-        "url": "https://www.google.com/maps/search/?api=1&query=Jard%C3%ADn+Conservatorio"
+        "url": "https://www.google.com/maps/search/?api=1&query=1233+5th+Ave+New+York+10029+Conservatoru+Garden"
       }
     ]
   },
@@ -2155,7 +2143,7 @@
         "numero": 10,
         "nombre": "Levain Bakery",
         "coords": "40.7799589, -73.9802984",
-        "url": "https://www.google.com/maps/search/?api=1&query=Levain+Bakery"
+        "url": "https://www.google.com/maps/search/?api=1&query=167+w+74th+Levain+Bakery"
       }
     ]
   },
@@ -2166,18 +2154,18 @@
       {
         "numero": 1,
         "nombre": "Levain Bakery",
-        "coords": "40.7799589, -73.9802984",
-        "url": "https://www.google.com/maps/search/?api=1&query=Levain+Bakery"
+        "coords": "40.781526, -73.9792856",
+        "url": "https://www.google.com/maps/search/?api=1&query=351+Amsterdam+Ave+Levain+Bakery"
       },
       {
         "numero": 2,
-        "nombre": "The New York Historical",
+        "nombre": "NY Historical Society",
         "coords": "40.7793487, -73.9739079",
         "url": "https://www.google.com/maps/search/?api=1&query=The+New+York+Historical"
       },
       {
         "numero": 3,
-        "nombre": "Museo Historia Natural",
+        "nombre": "Museo de Historia Natural",
         "coords": "40.7813241, -73.9739882",
         "url": "https://www.google.com/maps/search/?api=1&query=Museo+Americano+de+Historia+Natural"
       },
@@ -2195,15 +2183,15 @@
       },
       {
         "numero": 6,
-        "nombre": "Cafe Lalo",
+        "nombre": "Café Lalo",
         "coords": "40.785967, -73.9766938",
         "url": "https://www.google.com/maps/search/?api=1&query=Cafe+Lalo"
       },
       {
         "numero": 7,
         "nombre": "Riverside Park",
-        "coords": "40.785967, -73.9766938",
-        "url": "https://www.google.com/maps/search/?api=1&query=Cafe+Lalo"
+        "coords": "40.7870938, -73.9821618",
+        "url": "https://www.google.com/maps/search/?api=1&query=River+Run+Playground"
       },
       {
         "numero": 8,
@@ -2232,12 +2220,12 @@
       {
         "numero": 3,
         "nombre": "Mount Morris",
-        "coords": "40.8051275, -73.9451913",
-        "url": "https://www.google.com/maps/search/?api=1&query=W+122nd+St,+New+York,+NY+10026,+EE.+UU."
+        "coords": "40.8053927, -73.9453077",
+        "url": "https://www.google.com/maps/search/?api=1&query=23+Mt+Morris+Park+W,+New+York,+NY+10027,+EE.+UU."
       },
       {
         "numero": 4,
-        "nombre": "Red Rooster Harlem",
+        "nombre": "Red Rooster",
         "coords": "40.8081442, -73.9448817",
         "url": "https://www.google.com/maps/search/?api=1&query=Red+Rooster+Harlem"
       },
@@ -2249,13 +2237,13 @@
       },
       {
         "numero": 6,
-        "nombre": "The National Jazz Museum in Harlem",
+        "nombre": "Museo Nacional del Jazz",
         "coords": "40.8098897, -73.9430911",
         "url": "https://www.google.com/maps/search/?api=1&query=The+National+Jazz+Museum+in+Harlem"
       },
       {
         "numero": 7,
-        "nombre": "The Studio Museum in Harlem",
+        "nombre": "The Studio Museum",
         "coords": "40.8082859, -73.9476926",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Studio+Museum+in+Harlem"
       },
@@ -2263,7 +2251,7 @@
         "numero": 8,
         "nombre": "Teatro Apollo",
         "coords": "40.8099273, -73.9501348",
-        "url": "https://www.google.com/maps/search/?api=1&query=Teatro+Apollo"
+        "url": "https://www.google.com/maps/search/?api=1&query=233+w+125th+3rd+Floor+NY+10027+Apollo+Theater"
       }
     ]
   },
@@ -2275,23 +2263,23 @@
         "numero": 1,
         "nombre": "Cotton Club",
         "coords": "40.8176161, -73.9602975",
-        "url": "https://www.google.com/maps/search/?api=1&query=Cotton+Club"
+        "url": "https://www.google.com/maps/search/?api=1&query=656+W+125th+10027+Cotton+Club"
       },
       {
         "numero": 2,
-        "nombre": "General Grant National Memorial",
+        "nombre": "General Grant Memorial",
         "coords": "40.8134045, -73.9630671",
         "url": "https://www.google.com/maps/search/?api=1&query=Tumba+del+General+Grant"
       },
       {
         "numero": 3,
-        "nombre": "Riverside Church",
+        "nombre": "Iglesia Riverside",
         "coords": "40.8119008, -73.9630756",
         "url": "https://www.google.com/maps/search/?api=1&query=Riverside+Church"
       },
       {
         "numero": 4,
-        "nombre": "Universidad de Columbia",
+        "nombre": "Columbia University",
         "coords": "40.8075355, -73.9625727",
         "url": "https://www.google.com/maps/search/?api=1&query=Universidad+de+Columbia"
       },
@@ -2305,13 +2293,13 @@
         "numero": 6,
         "nombre": "Morningside Park",
         "coords": "40.8060712, -73.9585391",
-        "url": "https://www.google.com/maps/search/?api=1&query=Morningside+Park"
+        "url": "https://www.google.com/maps/search/?api=1&query=Morningside+Dr+New+York+NY+10026+Estados+Unidos+Morningside+Park"
       },
       {
         "numero": 7,
         "nombre": "Levain Bakery",
         "coords": "40.805038, -73.955184",
-        "url": "https://www.google.com/maps/search/?api=1&query=Levain+Bakery"
+        "url": "https://www.google.com/maps/search/?api=1&query=2167+Frederick+Douglas+Blvd+NY+10026+Levain+Bakery"
       }
     ]
   },
@@ -2323,19 +2311,19 @@
         "numero": 1,
         "nombre": "Inspiration Point",
         "coords": "40.8586283, -73.9374065",
-        "url": "https://www.google.com/maps/search/?api=1&query=Inspiration+Point"
+        "url": "https://www.google.com/maps/search/?api=1&query=Henry+Hudson+Pkwy+NY+10033+Inspiration+Point"
       },
       {
         "numero": 2,
         "nombre": "Billings Lawn",
         "coords": "40.8602314, -73.9344866",
-        "url": "https://www.google.com/maps/search/?api=1&query=Billings+Lawn"
+        "url": "https://www.google.com/maps/search/?api=1&query=Fort+Tryon+Park+Broadway+NY+10040+Billings+Lawn"
       },
       {
         "numero": 3,
         "nombre": "Heather Garden",
         "coords": "40.8608066, -73.9337538",
-        "url": "https://www.google.com/maps/search/?api=1&query=Heather+Garden"
+        "url": "https://www.google.com/maps/search/?api=1&query=Center+Path+NY+10040+Heather+Garden"
       },
       {
         "numero": 4,
@@ -2351,7 +2339,7 @@
       },
       {
         "numero": 6,
-        "nombre": "The Cloisters",
+        "nombre": "The Cloisters (Met)",
         "coords": "40.8648628, -73.9317274",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Cloisters"
       }
@@ -2363,15 +2351,15 @@
     "puntos": [
       {
         "numero": 1,
-        "nombre": "Liberty Island Ferry Terminal",
+        "nombre": "Embarcadero",
         "coords": "40.6898987, -74.0471223",
         "url": "https://www.google.com/maps/search/?api=1&query=Liberty+Island+Ferry+Terminal"
       },
       {
         "numero": 2,
-        "nombre": "National Park and Shop",
+        "nombre": "National Park Service y Tienda de Regalos",
         "coords": "",
-        "url": "https://www.google.com/maps/search/?api=1&query=40%C2%B041'26.5%22N+74%C2%B002'47.4%22W"
+        "url": ""
       },
       {
         "numero": 3,
@@ -2387,7 +2375,7 @@
       },
       {
         "numero": 5,
-        "nombre": "Ellis Island National Museum of Immigration",
+        "nombre": "Museo Nacional de la Inmigración de Ellis Island",
         "coords": "40.6992753, -74.0394328",
         "url": "https://www.google.com/maps/search/?api=1&query=Ellis+Island+National+Museum+of+Immigration"
       }
@@ -2407,7 +2395,7 @@
         "numero": 2,
         "nombre": "Mirador Pebble Beach",
         "coords": "40.7043517, -73.9905712",
-        "url": "https://www.google.com/maps/search/?api=1&query=Pebble+Beach"
+        "url": "https://www.google.com/maps/search/?api=1&query=65+Plymouth+Brooklyn+NY+11201+Pebble+Beach"
       },
       {
         "numero": 3,
@@ -2424,26 +2412,26 @@
       {
         "numero": 5,
         "nombre": "Mercadillo Archiway",
-        "coords": "40.7030481, -73.9871074",
-        "url": "https://www.google.com/maps/search/?api=1&query=Casa+Health"
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 6,
-        "nombre": "POWERHOUSE Arena",
+        "nombre": "PowerHouse Arena",
         "coords": "40.7029769, -73.9887652",
         "url": "https://www.google.com/maps/search/?api=1&query=POWERHOUSE+Arena"
       },
       {
         "numero": 7,
-        "nombre": "DUMBO Manhattan Bridge View",
+        "nombre": "Washington Street",
         "coords": "40.7033165, -73.9895698",
         "url": "https://www.google.com/maps/search/?api=1&query=DUMBO+Manhattan+Bridge+View"
       },
       {
         "numero": 8,
-        "nombre": "Empire Stores",
+        "nombre": "Empire Stores y Time Out Market",
         "coords": "40.7033814, -73.9916008",
-        "url": "https://www.google.com/maps/search/?api=1&query=Empire+Stores"
+        "url": "https://www.google.com/maps/search/?api=1&query=53-58+Water+Brooklyn+NY+11201+Empire+Stores"
       },
       {
         "numero": 9,
@@ -2461,7 +2449,7 @@
         "numero": 1,
         "nombre": "The River Café",
         "coords": "40.7038342, -73.9947936",
-        "url": "https://www.google.com/maps/search/?api=1&query=The+River+Caf%C3%A9"
+        "url": "https://www.google.com/maps/search/?api=1&query=1+Water+Brooklyn+NY+11201+The+River+Caf%C3%A9"
       },
       {
         "numero": 2,
@@ -2471,9 +2459,9 @@
       },
       {
         "numero": 3,
-        "nombre": "Harriet's Rooftop",
+        "nombre": "Harriet's Rooftop en Hotel",
         "coords": "40.7023592, -73.995592",
-        "url": "https://www.google.com/maps/search/?api=1&query=Harriet's+Rooftop"
+        "url": "https://www.google.com/maps/search/?api=1&query=60+Furman+Fl+11+Brooklyn+NY+11201+Harriet's+Rooftop"
       },
       {
         "numero": 4,
@@ -2485,7 +2473,7 @@
         "numero": 5,
         "nombre": "Kayak",
         "coords": "40.6998678, -73.9979371",
-        "url": "https://www.google.com/maps/search/?api=1&query=Kayak+Dock+-+Brooklyn+Bridge+Park+Boathouse"
+        "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn+Bridge+Park+Pier+2+NY+11201+Kayak+Dock"
       },
       {
         "numero": 6,
@@ -2495,21 +2483,21 @@
       },
       {
         "numero": 7,
-        "nombre": "Picnic Peninsula Playground",
+        "nombre": "Picnic Peninsula Barbeque Area",
         "coords": "40.6946769, -74.0003101",
         "url": "https://www.google.com/maps/search/?api=1&query=Picnic+Peninsula+Playground"
       },
       {
         "numero": 8,
-        "nombre": "Entranceway to the Brooklyn Heights Promenade",
+        "nombre": "Brooklyn Heights Promenade",
         "coords": "40.6952281, -73.9982351",
         "url": "https://www.google.com/maps/search/?api=1&query=Entranceway+to+the+Brooklyn+Heights+Promenade"
       },
       {
         "numero": 9,
-        "nombre": "Brooklyn heifhts",
-        "coords": "40.6995189, -73.9938267",
-        "url": "https://www.google.com/maps/search/?api=1&query=77-63+Hicks+St,+Brooklyn,+NY+11201,+EE.+UU."
+        "nombre": "Brooklyn Heights (Calles Hicks y Willow)",
+        "coords": "40.6997198, -73.9945848",
+        "url": "https://www.google.com/maps/search/?api=1&query=47+1%2F2+Willow+St,+Brooklyn,+NY+11201,+EE.+UU."
       }
     ]
   },
@@ -2561,21 +2549,21 @@
       },
       {
         "numero": 8,
-        "nombre": "Prospect Park Boathouse",
+        "nombre": "Boathouse + Audubon Center",
         "coords": "40.6608215, -73.9652444",
         "url": "https://www.google.com/maps/search/?api=1&query=Prospect+Park+Boathouse"
       },
       {
         "numero": 9,
-        "nombre": "LeFrak Center at Lakeside",
+        "nombre": "LeFrak Center",
         "coords": "40.6572752, -73.9641611",
         "url": "https://www.google.com/maps/search/?api=1&query=LeFrak+Center+at+Lakeside"
       },
       {
         "numero": 10,
         "nombre": "The Peninsula",
-        "coords": "40.6572785, -73.9687531",
-        "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn,+Nueva+York+11215,+EE.+UU."
+        "coords": "40.6569032, -73.9703804",
+        "url": "https://www.google.com/maps/search/?api=1&query=200+Well+House+Brooklyn+NY+11218"
       }
     ]
   },
@@ -2599,7 +2587,7 @@
         "numero": 3,
         "nombre": "Quaker Cemetery",
         "coords": "40.6593127, -73.9726639",
-        "url": "https://www.google.com/maps/search/?api=1&query=Quaker+Cemetery"
+        "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn+NY+11215+Quaker+Cemetery"
       },
       {
         "numero": 4,
@@ -2611,7 +2599,7 @@
         "numero": 5,
         "nombre": "Tennis House",
         "coords": "40.6635449, -73.9733736",
-        "url": "https://www.google.com/maps/search/?api=1&query=Tennis+House"
+        "url": "https://www.google.com/maps/search/?api=1&query=52+West+Brooklyn+NY+11215+Tennis+House"
       },
       {
         "numero": 6,
@@ -2623,7 +2611,7 @@
         "numero": 7,
         "nombre": "Lafayette Memorial",
         "coords": "40.6645044, -73.9765878",
-        "url": "https://www.google.com/maps/search/?api=1&query=Lafayette+Memorial"
+        "url": "https://www.google.com/maps/search/?api=1&query=9th+Prospect+park+Brooklyn+NY+11215+Lafayette+Memorial"
       },
       {
         "numero": 8,
@@ -2640,8 +2628,8 @@
       {
         "numero": 1,
         "nombre": "Ruta grafitis",
-        "coords": "40.7076444, -73.9238934",
-        "url": "https://www.google.com/maps/search/?api=1&query=1225+Flushing+Ave,+Brooklyn,+NY+11237,+EE.+UU."
+        "coords": "40.708344, -73.9233995",
+        "url": "https://www.google.com/maps/search/?api=1&query=Xinyi+TCM+Private+Chef+and+Catering"
       },
       {
         "numero": 2,
@@ -2671,19 +2659,19 @@
         "numero": 1,
         "nombre": "St Annes Armenian Church",
         "coords": "40.7170074, -73.9575733",
-        "url": "https://www.google.com/maps/search/?api=1&query=St+Annes+Armenian+Church"
+        "url": "https://www.google.com/maps/search/?api=1&query=167+N+6th+Brooklyn+NY+11211+St+Annes+Armenian+Church"
       },
       {
         "numero": 2,
         "nombre": "Catedral de la Transfiguración de Nuestro Señor",
         "coords": "40.7193872, -73.9531867",
-        "url": "https://www.google.com/maps/search/?api=1&query=Catedral+de+la+Transfiguraci%C3%B3n+de+Nuestro+Se%C3%B1or"
+        "url": "https://www.google.com/maps/search/?api=1&query=228+N+12th+Brooklyn+NY+11211+Transfiguration+of+Our+Lord+Russian+Catthedral"
       },
       {
         "numero": 3,
         "nombre": "School Bus",
-        "coords": "40.7202318, -73.9541605",
-        "url": "https://www.google.com/maps/search/?api=1&query=195+N+12th+St,+Brooklyn,+NY+11211,+EE.+UU."
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 4,
@@ -2693,7 +2681,7 @@
       },
       {
         "numero": 5,
-        "nombre": "Williamvale",
+        "nombre": "The William Vale",
         "coords": "40.7220768, -73.9566198",
         "url": "https://www.google.com/maps/search/?api=1&query=Rooftop+Hotel+Williamvale"
       },
@@ -2712,18 +2700,18 @@
       {
         "numero": 8,
         "nombre": "Grafistis",
-        "coords": "40.722114, -73.9576563",
-        "url": "https://www.google.com/maps/search/?api=1&query=74-80+Wythe+Ave,+Brooklyn,+NY+11249,+EE.+UU."
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 9,
-        "nombre": "Kinfolk 94",
+        "nombre": "Kinfolk",
         "coords": "40.7215827, -73.9583801",
         "url": "https://www.google.com/maps/search/?api=1&query=Kinfolk+94"
       },
       {
         "numero": 10,
-        "nombre": "Arlo Williamsburg",
+        "nombre": "The Williamsburg Hotel",
         "coords": "40.7215045, -73.9587016",
         "url": "https://www.google.com/maps/search/?api=1&query=Arlo+Williamsburg"
       }
@@ -2736,14 +2724,14 @@
       {
         "numero": 1,
         "nombre": "Rough Trade NYC",
-        "coords": "40.7210298, -73.959889",
-        "url": "https://www.google.com/maps/search/?api=1&query=2-80+N+9th+St,+Brooklyn,+NY+11249,+EE.+UU."
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 2,
         "nombre": "Mercado Smorgasburg",
-        "coords": "40.7214853, -73.9621174",
-        "url": "https://www.google.com/maps/search/?api=1&query=Crack'd+Food+Concepts"
+        "coords": "40.7215481, -73.9609675",
+        "url": "https://www.google.com/maps/search/?api=1&query=Marsha+P.+Johnson+State+Park"
       },
       {
         "numero": 3,
@@ -2755,13 +2743,13 @@
         "numero": 4,
         "nombre": "Domino Park",
         "coords": "40.7148803, -73.967851",
-        "url": "https://www.google.com/maps/search/?api=1&query=Domino+Park"
+        "url": "https://www.google.com/maps/search/?api=1&query=15+river+Brooklyn+NY+11249+Domino+Park"
       },
       {
         "numero": 5,
         "nombre": "Devoción",
         "coords": "40.714774, -73.9622189",
-        "url": "https://www.google.com/maps/search/?api=1&query=Devoci%C3%B3n"
+        "url": "https://www.google.com/maps/search/?api=1&query=148+Grand+Brooklyn+NY+11249+Devoci%C3%B3n"
       },
       {
         "numero": 6,
@@ -2771,7 +2759,7 @@
       },
       {
         "numero": 7,
-        "nombre": "Radegast Hall & Biergarten",
+        "nombre": "Biergarten",
         "coords": "40.7166614, -73.9614494",
         "url": "https://www.google.com/maps/search/?api=1&query=Radegast+Hall+%26+Biergarten"
       }
@@ -2833,7 +2821,7 @@
         "numero": 9,
         "nombre": "South Battery",
         "coords": "40.6880255, -74.0151609",
-        "url": "https://www.google.com/maps/search/?api=1&query=South+Battery"
+        "url": "https://www.google.com/maps/search/?api=1&query=301+Comfort+Brooklyn+NY+11231+South+Battery"
       },
       {
         "numero": 10,
@@ -2857,7 +2845,7 @@
         "numero": 13,
         "nombre": "Island Oyster",
         "coords": "40.6931702, -74.0162911",
-        "url": "https://www.google.com/maps/search/?api=1&query=Island+Oyster"
+        "url": "https://www.google.com/maps/search/?api=1&query=146+Carder+NY+10004+Island+Oyster"
       }
     ]
   },
@@ -2905,13 +2893,13 @@
         "numero": 1,
         "nombre": "Nathan's Famous",
         "coords": "40.5752667, -73.9814806",
-        "url": "https://www.google.com/maps/search/?api=1&query=Nathan's+Famous"
+        "url": "https://www.google.com/maps/search/?api=1&query=1310+Surf+Ave+Brooklyn+NY+11224+Nathan's+Famous"
       },
       {
         "numero": 2,
         "nombre": "Island Art Walls",
         "coords": "40.5748254, -73.9821177",
-        "url": "https://www.google.com/maps/search/?api=1&query=Island+Art+Walls"
+        "url": "https://www.google.com/maps/search/?api=1&query=3027+W+15th+Brooklyn+NY+11224+Island+Art+Walls"
       },
       {
         "numero": 3,
@@ -2921,19 +2909,19 @@
       },
       {
         "numero": 4,
-        "nombre": "Luna Park en Coney Island",
+        "nombre": "Luna Park",
         "coords": "40.5752568, -73.9785149",
-        "url": "https://www.google.com/maps/search/?api=1&query=Luna+Park+en+Coney+Island"
+        "url": "https://www.google.com/maps/search/?api=1&query=1000+Surf+Ave+Brooklyn+NY+11224+Luna+Park+en+Coney+Island"
       },
       {
         "numero": 5,
-        "nombre": "The Cyclone Roller Coaster at Luna Park in Coney Island",
+        "nombre": "The Cyclone",
         "coords": "40.5751417, -73.977632",
         "url": "https://www.google.com/maps/search/?api=1&query=The+Cyclone+Roller+Coaster+at+Luna+Park+in+Coney+Island"
       },
       {
         "numero": 6,
-        "nombre": "Deno's Wonder Wheel Amusement Park",
+        "nombre": "Deno's Wonder Wheel",
         "coords": "40.5740066, -73.9791605",
         "url": "https://www.google.com/maps/search/?api=1&query=Deno's+Wonder+Wheel+Amusement+Park"
       }
@@ -2965,13 +2953,13 @@
         "numero": 4,
         "nombre": "Court Street",
         "coords": "40.7433271, -74.0285874",
-        "url": "https://www.google.com/maps/search/?api=1&query=Court+Street"
+        "url": "https://www.google.com/maps/search/?api=1&query=61+6th+Hoboken+Court+Street"
       },
       {
         "numero": 5,
         "nombre": "Willow Terrace",
-        "coords": "40.7448172, -74.0324533",
-        "url": "https://www.google.com/maps/search/?api=1&query=615-625+Willow+Ave,+Hoboken,+NJ+07030,+EE.+UU."
+        "coords": "",
+        "url": ""
       },
       {
         "numero": 6,
@@ -2988,8 +2976,8 @@
       {
         "numero": 8,
         "nombre": "Hoboken Terminal",
-        "coords": "40.7348895, -74.0290567",
-        "url": "https://www.google.com/maps/search/?api=1&query=Hoboken+Terminal"
+        "coords": "40.7357535, -74.0292481",
+        "url": "https://www.google.com/maps/search/?api=1&query=39+Hudson+Pl+Hoboken+NJ+07030+FedEx+Drop+Box"
       }
     ]
   },
@@ -3006,8 +2994,8 @@
       {
         "numero": 2,
         "nombre": "Hudson River Waterfront Walkway",
-        "coords": "40.7317081, -74.031011",
-        "url": "https://www.google.com/maps/search/?api=1&query=Newport+Sand+Beach"
+        "coords": "40.7221045, -74.0343352",
+        "url": "https://www.google.com/maps/search/?api=1&query=Hudson+River+Waterfront+Walkway+Jersey+City+NJ+07310+204+Estados+Unidos"
       },
       {
         "numero": 3,
@@ -3031,7 +3019,7 @@
         "numero": 6,
         "nombre": "Liberty Landing Marina",
         "coords": "40.7095688, -74.0416961",
-        "url": "https://www.google.com/maps/search/?api=1&query=Liberty+Landing+Marina"
+        "url": "https://www.google.com/maps/search/?api=1&query=80+Audrey+Zapp+DR+NJ+07305+Liberty+Landing+Marina"
       },
       {
         "numero": 7,
@@ -3042,14 +3030,134 @@
       {
         "numero": 8,
         "nombre": "Liberty State Park",
-        "coords": "40.7057531, -74.0491477",
-        "url": "https://www.google.com/maps/search/?api=1&query=Liberty+State+Park"
+        "coords": "40.7048017, -74.0447567",
+        "url": "https://www.google.com/maps/search/?api=1&query=535+Freedom+Way+NJK+07305+Liberty+State+Park+Playground"
       },
       {
         "numero": 9,
-        "nombre": "Black Tom Island",
+        "nombre": "Black Tom Island y Flag Plaza",
         "coords": "40.6914548, -74.0551841",
         "url": "https://www.google.com/maps/search/?api=1&query=Black+Tom+Island"
+      }
+    ]
+  },
+  {
+    "tarjetaId": 52,
+    "titulo": "Personal",
+    "puntos": [
+      {
+        "numero": 1,
+        "nombre": "Estatua de la Libertad (39-1)",
+        "coords": "40.6898987, -74.0471223",
+        "url": "https://www.google.com/maps/search/?api=1&query=Liberty+Island+Ferry+Terminal"
+      },
+      {
+        "numero": 2,
+        "nombre": "Toro (2-3)",
+        "coords": "40.7054843, -74.0137577",
+        "url": "https://www.google.com/maps/search/?api=1&query=Cunard+Building"
+      },
+      {
+        "numero": 3,
+        "nombre": "La niña sin miedo (2-7)",
+        "coords": "40.70679, -74.0108317",
+        "url": "https://www.google.com/maps/search/?api=1&query=The+Fearless+Girl"
+      },
+      {
+        "numero": 4,
+        "nombre": "Memorial y Museo 9/11 (4-7)",
+        "coords": "40.7115776, -74.0133362",
+        "url": "https://www.google.com/maps/search/?api=1&query=National+September+11+Memorial+%26+Museum"
+      },
+      {
+        "numero": 5,
+        "nombre": "The Oculus (4-3)",
+        "coords": "40.7118042, -74.0118498",
+        "url": "https://www.google.com/maps/search/?api=1&query=Oculus+Center"
+      },
+      {
+        "numero": 6,
+        "nombre": "Puente de Brooklyn (6-1)",
+        "coords": "40.7050816, -73.9955821",
+        "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn+Bridge+Promenade,+New+York,+NY,+EE.+UU."
+      },
+      {
+        "numero": 7,
+        "nombre": "Mirador Pebble Beach (40-2)",
+        "coords": "40.7043517, -73.9905712",
+        "url": "https://www.google.com/maps/search/?api=1&query=65+Plymouth+Brooklyn+NY+11201+Pebble+Beach"
+      },
+      {
+        "numero": 8,
+        "nombre": "St. Patrick's Catedral(23-12)",
+        "coords": "40.7586117, -73.9761953",
+        "url": "https://www.google.com/maps/search/?api=1&query=Catedral+de+Nueva+York"
+      },
+      {
+        "numero": 9,
+        "nombre": "Rockefeller Center ( 24-4)",
+        "coords": "40.7593495, -73.9794087",
+        "url": "https://www.google.com/maps/search/?api=1&query=Top+of+The+Rock"
+      },
+      {
+        "numero": 10,
+        "nombre": "MoMA (23-10)",
+        "coords": "40.7614327, -73.9776216",
+        "url": "https://www.google.com/maps/search/?api=1&query=the+Museum+of+Modern+Art+Moma"
+      },
+      {
+        "numero": 11,
+        "nombre": "Biblioteca Pública (23-3)",
+        "coords": "40.7531823, -73.9822534",
+        "url": "https://www.google.com/maps/search/?api=1&query=476+5th+Ave+Public+Libraru+Stephen"
+      },
+      {
+        "numero": 12,
+        "nombre": "Grand Central Terminal (23-5)",
+        "coords": "40.752714, -73.9772269",
+        "url": "https://www.google.com/maps/search/?api=1&query=89+E+42nd+Grand+Central+Terminal"
+      },
+      {
+        "numero": 13,
+        "nombre": "Chrysler Building (23-6)",
+        "coords": "40.7516208, -73.975502",
+        "url": "https://www.google.com/maps/search/?api=1&query=Edificio+Chrysler"
+      },
+      {
+        "numero": 14,
+        "nombre": "Summit (23-4)",
+        "coords": "40.7527746, -73.9787253",
+        "url": ""
+      },
+      {
+        "numero": 15,
+        "nombre": "Central Park (31,32,33)",
+        "coords": "",
+        "url": ""
+      },
+      {
+        "numero": 16,
+        "nombre": "Museo Metropolitano (29-1)",
+        "coords": "40.7794366, -73.963244",
+        "url": "https://www.google.com/maps/search/?api=1&query=Museo+Metropolitano+de+Arte"
+      },
+      {
+        "numero": 17,
+        "nombre": "Museo de Historia Natural (35-3)",
+        "coords": "40.7813241, -73.9739882",
+        "url": "https://www.google.com/maps/search/?api=1&query=Museo+Americano+de+Historia+Natural"
+      },
+      {
+        "numero": 18,
+        "nombre": "Lincoln Center (34-5)",
+        "coords": "40.7724641, -73.9834889",
+        "url": "https://www.google.com/maps/search/?api=1&query=Lincoln+Center"
+      },
+      {
+        "numero": 19,
+        "nombre": "The Vessel y Edye (19-1)",
+        "coords": "40.7538073, -74.0021537",
+        "url": "https://www.google.com/maps/search/?api=1&query=Vessel"
       }
     ]
   }
